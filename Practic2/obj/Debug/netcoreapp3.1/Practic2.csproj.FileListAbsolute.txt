@@ -1,0 +1,16 @@
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\bin\Debug\netcoreapp3.1\Practic2.exe
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\bin\Debug\netcoreapp3.1\Practic2.deps.json
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\bin\Debug\netcoreapp3.1\Practic2.runtimeconfig.json
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\bin\Debug\netcoreapp3.1\Practic2.runtimeconfig.dev.json
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\bin\Debug\netcoreapp3.1\Practic2.dll
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\bin\Debug\netcoreapp3.1\Practic2.pdb
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\obj\Debug\netcoreapp3.1\Practic2.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\obj\Debug\netcoreapp3.1\Practic2.Form1.resources
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\obj\Debug\netcoreapp3.1\Practic2.Properties.Resources.resources
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\obj\Debug\netcoreapp3.1\Practic2.csproj.GenerateResource.cache
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\obj\Debug\netcoreapp3.1\Practic2.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\obj\Debug\netcoreapp3.1\Practic2.AssemblyInfo.cs
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\obj\Debug\netcoreapp3.1\Practic2.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\obj\Debug\netcoreapp3.1\Practic2.dll
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\obj\Debug\netcoreapp3.1\Practic2.pdb
+C:\Users\dev\source\repos\WinFormsLesson6\Practic2\obj\Debug\netcoreapp3.1\Practic2.genruntimeconfig.cache

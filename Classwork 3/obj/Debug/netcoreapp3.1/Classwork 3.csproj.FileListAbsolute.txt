@@ -1,0 +1,15 @@
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\bin\Debug\netcoreapp3.1\Classwork 3.exe
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\bin\Debug\netcoreapp3.1\Classwork 3.deps.json
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\bin\Debug\netcoreapp3.1\Classwork 3.runtimeconfig.json
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\bin\Debug\netcoreapp3.1\Classwork 3.runtimeconfig.dev.json
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\bin\Debug\netcoreapp3.1\Classwork 3.dll
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\bin\Debug\netcoreapp3.1\Classwork 3.pdb
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\obj\Debug\netcoreapp3.1\Classwork 3.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\obj\Debug\netcoreapp3.1\Classwork_3.Form1.resources
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\obj\Debug\netcoreapp3.1\Classwork 3.csproj.GenerateResource.cache
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\obj\Debug\netcoreapp3.1\Classwork 3.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\obj\Debug\netcoreapp3.1\Classwork 3.AssemblyInfo.cs
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\obj\Debug\netcoreapp3.1\Classwork 3.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\obj\Debug\netcoreapp3.1\Classwork 3.dll
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\obj\Debug\netcoreapp3.1\Classwork 3.pdb
+C:\Users\dev\source\repos\WinFormsLesson6\Classwork 3\obj\Debug\netcoreapp3.1\Classwork 3.genruntimeconfig.cache
